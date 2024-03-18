@@ -1,2 +1,7 @@
 # Text_classification
-Use Mamba and Bert
+Use Bert
+# Inference
+```
+python main.py
+
+```
